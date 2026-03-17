@@ -1,7 +1,7 @@
 import{connect}from'cloudflare:sockets'
 
 const C={
-  sub:'k3f',
+  sub:'k3',
   uuid:'7c16fd94-bdd1-43dd-b406-fcae7c4efb27',
   fallback:'ProxyIP.KR.CMLiussss.net',
   hdrs:{'cache-control':'public,max-age=14400','content-type':'text/plain'}
